@@ -15,9 +15,6 @@ The tool calculates the profitability of each stock by analyzing the percentage 
 Streamlit: For building the interactive web application.
 Plotly: For creating interactive and visually appealing charts.
 Yahoo Finance API: To fetch historical stock data.
-Facebook Prophet: For time series forecasting.
-pyttsx3: For text-to-speech functionality.
-Future Enhancements:
 Incorporate more advanced machine learning models for prediction.
 Add sentiment analysis of news and social media data for improved forecasting.
 Include real-time stock data updates.
